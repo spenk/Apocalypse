@@ -1,0 +1,4 @@
+main-class = com.topicarp.spenk.apocalypse.Apocalypse
+isLibrary = false
+author = Spenk
+version = 1.1
